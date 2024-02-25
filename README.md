@@ -1,2 +1,3 @@
-# OCTANET_FEBRUARY
-short internship
+ # OCTANET_FEBRUARY
+a basic python atm interface model
+
